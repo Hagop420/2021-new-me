@@ -1,0 +1,25 @@
+.text-success{
+   position: relative;
+font-family:cursive;
+font-size:100px !important;
+text-align: center;
+}
+body{
+    background:lightblue;
+
+
+}
+.modal-body li{
+    list-style-type:none;
+    margin-left:20px;
+}
+
+#modal2{
+    display:block;
+    margin-top:30px;
+}
+
+#lastModal{
+    margin-top:30px;
+}
+
